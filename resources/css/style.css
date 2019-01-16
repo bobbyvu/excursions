@@ -20,11 +20,18 @@ color: white;
 
 .header--sub-header {
 font-size: 21px;
-color: gray; 
+color: gray;
 }
 /* LINKS */
 
 .link--cta {
   color: Aquamarine;
   font-size: 16px;
+}
+
+/* FOOTER */
+.footer--copyright {
+font-size: 21px;
+text-align: right;
+color: grey;
 }
